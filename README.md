@@ -1,33 +1,41 @@
-<p align="center">
-  <img src="https://github.com/timnirmal/gemini-parser/blob/master/img.png?raw=true" alt="gemini-parser" width="80%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./static/gemini-parser-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./static/gemini-parser.png">
+  <img alt="Gemini Parser Logo" src="./img.png" width="100%">
+</picture>
 
-<h1 align="center">🚀 gemini-parser</h1>
-<h3 align="center">Seamless Document Processing with Google Gemini API</h3>
+[//]: # (https://github.com/timnirmal/gemini-parser/blob/master/img.png?raw=true)
 
-<p align="center">
-  <b>Convert, extract, and process documents effortlessly with AI-powered precision.</b>
-</p>
+<h1 align="center">Seamless Document Processing with Google Gemini API</h1>
 
-<br>
+[//]: # ([![GitHub stars]&#40;https://img.shields.io/github/stars/timnirmal/gemini-parser?style=social&#41;]&#40;https://github.com/timnirmal/gemini-parser/stargazers&#41;)
 
-## ✨ What is gemini-parser?
+[//]: # ([![Discord]&#40;https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white&#41;]&#40;https://discord.gg/your-link&#41;)
 
-**gemini-parser** is a Python library that simplifies document processing using the **Google Gemini API**.  
-It enables developers to **transcribe PDFs**, **extract structured data**, and **summarize large documents** with ease.  
-Whether you're working with **local files, URLs, or batch processing**, this library ensures efficiency and automation.
+[//]: # ([![Documentation]&#40;https://img.shields.io/badge/Documentation-📖-blue&#41;]&#40;https://your-docs-link&#41;)
 
-<br>
+[//]: # ([![PyPI version]&#40;https://img.shields.io/pypi/v/gemini-parser&#41;]&#40;https://pypi.org/project/gemini-parser/&#41;)
 
-## 🎯 Why choose gemini-parser?
+[//]: # ([![License]&#40;https://img.shields.io/pypi/l/gemini-parser&#41;]&#40;https://github.com/timnirmal/gemini-parser/blob/master/LICENSE&#41;)
 
-✅ **AI-Powered Processing** – Uses Google Gemini API for intelligent document parsing.  
-📂 **Handles Large Files** – Process documents up to **20GB** effortlessly.  
-⚡ **Fast & Optimized** – Smart caching for efficient operations.  
-📑 **Multi-Format Support** – Works with **PDF, CSV, HTML, XML, TXT, DOC**, and more.  
-🔄 **Flexible Input Options** – Process files from **local storage, folders, or URLs** seamlessly.  
+🌍 **gemini-parser** is your all-in-one Python library for document parsing using the **Google Gemini API**.  
 
-<br>
+⚡ It enables developers to **transcribe PDFs**, **extract structured data**, and **summarize large documents** with ease.
+
+🚀 Whether you're transcribing PDFs, extracting structured data, or summarizing large documents, **gemini-parser** delivers fast, reliable, and efficient results.
+
+
+---
+
+## 🔥 Why choose gemini-parser?
+
+- 🚀 **AI-powered document parsing** with Google Gemini API.
+- 📦 **Handles large files** effortlessly (up to 20GB).
+- ⚡ **Smart caching** for faster processing and reduced costs.
+- 📑 **Supports multiple formats**: PDF, CSV, HTML, DOC, XML, TXT.
+- 🌐 **Flexible inputs** from local files, folders, or URLs.
+
+---
 
 
 ## 📦 Installation

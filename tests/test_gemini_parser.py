@@ -112,20 +112,20 @@ def test_text_file():
 
 if __name__ == "__main__":
     tests = [
-        # test_single_small_pdf,
+        test_single_small_pdf,
         test_single_pdf_with_cache,
-        # test_multiple_pdfs,
-        # test_folder_of_pdfs,
-        # test_folder_with_cache,
+        test_multiple_pdfs,
+        test_folder_of_pdfs,
+        test_folder_with_cache,
         test_pdf_from_url,
         test_pdf_from_url_with_cache,
-        # test_invalid_local_path,
-        # test_invalid_url,
-        # test_list_caches,
-        # test_delete_cache,
-        # test_delete_invalid_cache,
-        # test_invalid_mime_type,
-        # test_text_file,
+        test_invalid_local_path,
+        test_invalid_url,
+        test_list_caches,
+        test_delete_cache,
+        test_delete_invalid_cache,
+        test_invalid_mime_type,
+        test_text_file,
     ]
 
     for test in tests:

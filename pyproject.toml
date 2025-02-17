@@ -1,6 +1,6 @@
 [project]
 name = "gemini-parser"
-version = "0.1.0"
+version = "0.1.0.post2"
 description = "A Python library for processing documents with the Gemini API"
 readme = "README.md"
 authors = [{ name = "Thimira Nirmal", email = "timnirmal@gmail.com" }]

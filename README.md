@@ -40,6 +40,8 @@
 - ⚡ **Smart caching** for faster processing and reduced costs.
 - 📑 **Supports multiple formats**: PDF, CSV, HTML, DOC, XML, TXT.
 - 🌐 **Flexible inputs** from local files, folders, or URLs.
+- 📊 **Structured data extraction** for easy analysis.
+- 📜 **Handle Large output context** unlike gemini output context of ~8000 tokens, gemini-parser doesn't have a limit.
 
 ---
 
@@ -53,6 +55,8 @@ pip install gemini-parser
 ---
 
 ## **Usage**
+
+⚠️ The library works perfectly fine for PDFs now. For other files type I will be adding support soon.
 
 ### **Quickstart Example**
 

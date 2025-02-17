@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-logo.png" alt="gemini-parser" width="150"/>
+  <img src="https://github.com/timnirmal/gemini-parser/blob/master/img.png?raw=true" alt="gemini-parser" width="150"/>
 </p>
 
 <h1 align="center">gemini-parser</h1>

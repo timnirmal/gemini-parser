@@ -2,26 +2,33 @@
   <img src="https://github.com/timnirmal/gemini-parser/blob/master/img.png?raw=true" alt="gemini-parser" width="80%"/>
 </p>
 
-<h1 align="center">gemini-parser</h1>
+<h1 align="center">🚀 gemini-parser</h1>
+<h3 align="center">Seamless Document Processing with Google Gemini API</h3>
+
 <p align="center">
-  Seamless Document Processing with Google Gemini API
+  <b>Convert, extract, and process documents effortlessly with AI-powered precision.</b>
 </p>
 
----
+<br>
 
-**gemini-parser** is a Python library that simplifies document processing using the **Google Gemini API**. From **transcribing PDFs** and **extracting structured data** to **summarizing large documents**, it’s designed to handle it all – efficiently and effortlessly.
+## ✨ What is gemini-parser?
 
----
+**gemini-parser** is a Python library that simplifies document processing using the **Google Gemini API**.  
+It enables developers to **transcribe PDFs**, **extract structured data**, and **summarize large documents** with ease.  
+Whether you're working with **local files, URLs, or batch processing**, this library ensures efficiency and automation.
 
-## 🎯 Why gemini-parser?
+<br>
 
-- 🚀 **Effortless Document Processing**: Upload, parse, and extract insights from PDFs and text files.
-- ⚡ **Handles Large Files**: Process files up to 20GB with Gemini’s File API.
-- 🔄 **Caching for Speed**: Cache document content for faster future processing.
-- 📦 **All-in-One Library**: Local files, URLs, and folder batch processing in a single package.
-- 🛡️ **Robust & Reliable**: Built-in error handling, logging, and test coverage.
+## 🎯 Why choose gemini-parser?
 
----
+✅ **AI-Powered Processing** – Uses Google Gemini API for intelligent document parsing.  
+📂 **Handles Large Files** – Process documents up to **20GB** effortlessly.  
+⚡ **Fast & Optimized** – Smart caching for efficient operations.  
+📑 **Multi-Format Support** – Works with **PDF, CSV, HTML, XML, TXT, DOC**, and more.  
+🔄 **Flexible Input Options** – Process files from **local storage, folders, or URLs** seamlessly.  
+
+<br>
+
 
 ## 📦 Installation
 

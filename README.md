@@ -1,6 +1,6 @@
-<picture>
-  <source srcset="./img.png">
-</picture>
+<p align="center">
+  <img src="https://github.com/timnirmal/gemini-parser/blob/master/img.png?raw=true" alt="gemini-parser" width="100%"/>
+</p>
 
 [//]: # (<picture>)
 

@@ -3,19 +3,20 @@ name = "gemini-parser"
 version = "0.1.0"
 description = "A Python library for processing documents with the Gemini API"
 readme = "README.md"
-authors = [{ name = "Thimira Nirmal", email = "your_email@example.com" }]
+authors = [{ name = "Thimira Nirmal", email = "timnirmal@gmail.com" }]
 license = { text = "MIT" }
 requires-python = ">=3.8"
 dependencies = [
     "tqdm",
     "PyPDF2",
     "google-genai",
-    "python-dotenv"
+    "python-dotenv",
+    "httpx"
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/gemini-parser"
-Repository = "https://github.com/yourusername/gemini-parser"
+Homepage = "https://github.com/timnirmal/gemini-parser"
+Repository = "https://github.com/timnirmal/gemini-parser"
 
 [build-system]
 requires = ["setuptools>=61.0.0", "wheel"]

@@ -7,14 +7,15 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Thimira Nirmal",
-    author_email="timnirla@gamail.com",  # Replace with your email
-    url="https://github.com/timnirla/gemini-parser",  # Replace with your GitHub URL
+    author_email="timnirmal@gmail.com",
+    url="https://github.com/timnirmal/gemini-parser",
     packages=find_packages(include=["gemini_parser", "gemini_parser.*"]),
     install_requires=[
         "tqdm",
         "PyPDF2",
         "google-genai",
         "python-dotenv",
+        "httpx"
     ],
     python_requires=">=3.8",
     classifiers=[

@@ -1,8 +1,14 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./static/gemini-parser-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./static/gemini-parser.png">
-  <img alt="Gemini Parser Logo" src="./img.png" width="100%">
+  <source srcset="./img.png">
 </picture>
+
+[//]: # (<picture>)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: dark&#41;" srcset="./static/gemini-parser-dark.png">)
+
+[//]: # (  <source media="&#40;prefers-color-scheme: light&#41;" srcset="./static/gemini-parser.png">)
+
+[//]: # (</picture>)
 
 [//]: # (https://github.com/timnirmal/gemini-parser/blob/master/img.png?raw=true)
 

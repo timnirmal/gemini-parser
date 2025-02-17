@@ -4,7 +4,7 @@ setup(
     name="gemini-parser",
     version="0.1.0",
     description="A Python library for processing documents with the Gemini API",
-    long_description=open("README.md").read(),
+    long_description="gemini-parser is a Python library that simplifies document processing using the Google Gemini API. It enables developers to transcribe PDFs, extract structured data, and summarize large documents with ease. Whether you're working with local files, URLs, or batch processing, this library ensures efficiency and automation.",
     long_description_content_type="text/markdown",
     author="Thimira Nirmal",
     author_email="timnirmal@gmail.com",

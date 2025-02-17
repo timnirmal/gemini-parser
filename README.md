@@ -48,7 +48,7 @@
 
 ```bash
 pip install gemini-parser
-
+```
 
 ---
 
@@ -60,6 +60,9 @@ pip install gemini-parser
 from gemini_parser import DocumentProcessor
 from pathlib import Path
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Initialize processor with API key
 processor = DocumentProcessor(api_key=os.getenv("GEMINI_API_KEY"))
